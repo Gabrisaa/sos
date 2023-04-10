@@ -42,8 +42,8 @@ h1 {
 
 #menina {
     position: absolute;
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     left: 120px;
     top: 210px;background-color: var(--principal);
 }
@@ -123,7 +123,7 @@ h2 {
     width: 360px;
     height: 45px;
     left: 120px;
-    top: 520px;
+    top: 630px;
 }
 
 .texto1 {
@@ -195,7 +195,7 @@ header nav ul li a {
 
 footer {
     background-color: #ED6464;
-    height: 3rem;
+    height: 4rem;
     width: 100%;
     bottom: 0;
     position: fixed;
@@ -239,4 +239,153 @@ color: (var(--segunda));
     position: absolute;
     top: 10px;
     left: 10px;
+}
+
+#oua {
+    position: absolute;
+    font-weight: bold;
+    width: 290px;
+    height: 150px;
+    left: 1400px;
+    top: 400px;
+    font-size: 20px;
+
+
+}
+#oia {
+    position: absolute;
+    font-weight: bold;
+    width: 290px;
+    height: 145px;
+    left: 1400px;
+    top: 200px;
+    font-size: 20px;
+}
+#coração {
+    position: absolute;
+    font-weight: bold;
+    width: 60px;
+
+    left: 1400px;
+    top: 200px;
+    font-size: 20px;
+    left: 1700px;
+    top: 160px;
+    font-size: 20px;
+}
+#coraçã2o {
+    position: absolute;
+    font-weight: bold;
+    width: 35px;
+    height: 35px;
+    left: 1750px;
+    top: 200px;
+    font-size: 20px;
+
+}
+#coração00 {
+    position: absolute;
+    font-weight: bold;
+    width: 35px;
+    height: 35px;
+    left: 1360px;
+    top: 420px;
+    font-size: 20px;
+
+}
+#coração11{
+    position: absolute;
+    font-weight: bold;
+    width: 60px;
+    height: 60px;
+    left: 1310px;
+    top: 370px;
+    font-size: 20px;
+
+
+}
+#oa{
+    position: absolute;
+    font-weight: bold;
+    width: 290px;
+    height: 145px;
+    left: 120px;
+    top: 270px;
+    font-size: 20px;
+    
+}
+.texto3{
+    position: absolute;
+    font-weight: bold;
+    width: 290px;
+    height: 145px;
+    left: 120px;
+    top: 270px;
+    font-size: 17px;
+}
+.ou{
+   font-size: 50px; 
+}
+#oo{
+    position: absolute;
+    font-weight: bold;
+    width: 290px;
+    height: 145px;
+    left: 120px;
+    top: 480px;
+    font-size: 20px;
+    
+}
+.texto22{
+    position: absolute;
+    font-weight: bold;
+    width: 290px;
+    height: 145px;
+    left: 120px;
+    top: 480px;
+    font-size: 20px;
+
+}
+.pimpim{
+ position: absolute;
+width: 255px;
+height: 56px;
+left: 874px;
+top: 201px;
+font-weight: 400;
+font-size: 26px;
+line-height: 31px;
+
+color: #000000;
+}
+
+#ajuda{
+    position: absolute;
+    width: 180px;
+    height: 160px;
+    left: 860px;
+    top: 350px;
+}
+.pp{
+    position: absolute;
+    width: 180px;
+    height: 160px;
+    left: 860px;
+    top: 300px;
+    font-size: 35px;
+}
+#bacana{
+    position: absolute;
+    width: 180px;
+    height: 160px;
+    left: 1100px;
+    top: 350px;
+
+}
+#ret{
+    display: flex;
+    width: 170px;
+    height: 39px;
+    margin-left: 1565px;
+    margin-top: 20px;
 }
